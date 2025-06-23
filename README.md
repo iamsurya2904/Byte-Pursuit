@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Shadow-Fox Signature-Based Recovery Tool</h1>
+<h1 align="center">🛡️ Byte Pursuit Signature-Based Recovery Tool</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/tech-stack-Python%20%7C%20GTK%20%7C%20AES-blue" alt="Tech Stack">
