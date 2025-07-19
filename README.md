@@ -19,20 +19,20 @@ This project stood out for its lightweight architecture, on-device disk analysis
 
 ## 🌐 Overview
 
-** Signature-Based Recovery Tool** is a GUI-based Python application designed for forensic-grade file recovery. Built using **PyGObject (GTK+ 3)**, the tool provides an intuitive modern UI to recover encrypted logs, JPG/PNG images, and PDFs from raw disk paths using signature carving and AES decryption logic.
+Signature-Based Recovery Tool is a GUI-based Python application designed for forensic-grade file recovery. Built using **PyGObject (GTK+ 3)**, the tool provides an intuitive modern UI to recover encrypted logs, JPG/PNG images, and PDFs from raw disk paths using signature carving and AES decryption logic.
 
 Designed with modern UI principles, sudo permission checks, and dynamic disk scanning—this tool is ideal for cybersecurity students, forensic analysts, and recovery engineers.
 
 ---
 
-## 🧰 Key Features
+🧰 Key Features
 
 ✅ Stylish GTK3 GUI with dark theme + CSS styling  
 ✅ Sudo validation & `lsblk` disk enumeration  
 ✅ Recover:
-- 📄 **PDFs** (`%PDF` → `%%EOF`)
-- 🖼️ **JPGs** (`FFD8FFE0` → `FFD9`)
-- 🖼️ **PNGs** (`89504E47...` → `IEND`)  
+- 📄 PDFs (`%PDF` → `%%EOF`)
+- 🖼️ JPGs (`FFD8FFE0` → `FFD9`)
+- 🖼️ PNGs (`89504E47...` → `IEND`)  
 ✅ Custom **log extraction & AES decryption** for embedded log signatures  
 ✅ Live progress tracking via a progress bar  
 ✅ Integrated log window for recovery feedback  
