@@ -19,7 +19,7 @@ This project stood out for its lightweight architecture, on-device disk analysis
 
 ## 🌐 Overview
 
-**Shadow-Fox Signature-Based Recovery Tool** is a GUI-based Python application designed for forensic-grade file recovery. Built using **PyGObject (GTK+ 3)**, the tool provides an intuitive modern UI to recover encrypted logs, JPG/PNG images, and PDFs from raw disk paths using signature carving and AES decryption logic.
+** Signature-Based Recovery Tool** is a GUI-based Python application designed for forensic-grade file recovery. Built using **PyGObject (GTK+ 3)**, the tool provides an intuitive modern UI to recover encrypted logs, JPG/PNG images, and PDFs from raw disk paths using signature carving and AES decryption logic.
 
 Designed with modern UI principles, sudo permission checks, and dynamic disk scanning—this tool is ideal for cybersecurity students, forensic analysts, and recovery engineers.
 
